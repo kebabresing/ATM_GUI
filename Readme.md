@@ -40,4 +40,4 @@ Sebelum menjalankan proyek ini, pastikan Anda memiliki:
 ## Author
 
 - Name   : Akhmad Zamri Ardani
-- Purpose: Final project Pemrograman Lanjut
+- Purpose: Final Project Pemrograman Lanjut
